@@ -6,25 +6,25 @@ Software used: Jupyter Notebook
 
 ## This Inventory Management System is working on No SQL based database:
 Used 2 JSON files to store data.
-(i)product.json is used for data on products.
-(ii)sales.json is used for data on purchase details.
+##### (i)product.json is used for data on products.
+##### (ii)sales.json is used for data on purchase details.
 
 ### There are 5 attributes per product:
-Product ID
-Product Name
-Product Type
-Product Price
-Product Quantity
+1.Product ID
+2.Product Name
+3.Product Type
+4.Product Price
+5.Product Quantity
 
 ### There are 5 attributes per purchase:
-Billing ID
-Product ID
-Product Name
-Product Quantity Bought
-Total Amount
+1.Billing ID
+2.Product ID
+3.Product Name
+4.Product Quantity Bought
+5.Total Amount
 
 #### My project can do the following things:
-Add products to the inventory.\n
+Add products to the inventory.
 Display products stored in the inventory.
 Remove products from the inventory.
 Search products from the inventory.
