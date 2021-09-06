@@ -24,15 +24,15 @@ Used 2 JSON files to store data.
 5) Total Amount
 
 #### My project can do the following things:
-Add products to the inventory.
-Display products stored in the inventory.
-Remove products from the inventory.
-Search products from the inventory.
-Update products to the inventory.
-Purchase product for customers.
-Generates bill after purchase.
-Adds transaction details to the inventory.
-Views sales history from the inventory.
+1) Add products to the inventory.
+2) Display products stored in the inventory.
+3) Remove products from the inventory.
+4) Search products from the inventory.
+5) Update products to the inventory.
+6) Purchase product for customers.
+7) Generates bill after purchase.
+8) Adds transaction details to the inventory.
+9) Views sales history from the inventory.
 
 ## Other Useful Links:
 https://www.linkedin.com/in/arpita-nanda-47a728214/
