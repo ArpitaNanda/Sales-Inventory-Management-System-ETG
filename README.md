@@ -23,7 +23,7 @@ Product Name
 Product Quantity Bought
 Total Amount
 
-##### My project can do the following things:
+#### My project can do the following things:
 Add products to the inventory.
 Display products stored in the inventory.
 Remove products from the inventory.
