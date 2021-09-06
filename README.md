@@ -9,14 +9,14 @@ Software used: Jupyter Notebook
 1) product.json is used for data on products.
 2) sales.json is used for data on purchase details.
 
-### There are 5 attributes per product:
+#### There are 5 attributes per product:
 1) Product ID
 2) Product Name
 3) Product Type
 4) Product Price
 5) Product Quantity
 
-### There are 5 attributes per purchase:
+#### There are 5 attributes per purchase:
 1) Billing ID
 2) Product ID
 3) Product Name
