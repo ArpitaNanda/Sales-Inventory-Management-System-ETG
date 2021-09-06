@@ -6,8 +6,8 @@ Software used: Jupyter Notebook
 
 ## This Inventory Management System is working on No SQL based database:
 Used 2 JSON files to store data.
-(i)product.json is used for data on products.
-(ii)sales.json is used for data on purchase details.
+1) product.json is used for data on products.
+2) sales.json is used for data on purchase details.
 
 ### There are 5 attributes per product:
 1) Product ID
